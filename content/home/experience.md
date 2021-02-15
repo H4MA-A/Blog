@@ -49,6 +49,17 @@ experience:
         * Supervising a network security workshop where we built network attacks tool
         * Supervising a Mobile reverse engineering workshop
 
+- title: CTF Player
+    company: Fword
+    company_url: 'https://twitter.com/fwordteam?lang=en'
+    location: Tunisia
+    date_start: '2018-12-12'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Reverse Engineering Player
+        
   - title: Media manager
     company: Securinets
     company_url: 'https://securinets.com/'
@@ -61,15 +72,4 @@ experience:
         * Mediatisation of the association activities
         * Managing Securinets social media including a Facebook page with more than 13K followers
         * Publishing Cyber Security news articles
-
-  - title: CTF Player
-    company: Fword
-    company_url: 'https://twitter.com/fwordteam?lang=en'
-    location: Tunisia
-    date_start: '2018-12-12'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Reverse Engineering Player
 ---
